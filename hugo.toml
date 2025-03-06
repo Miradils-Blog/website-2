@@ -1,0 +1,19 @@
+baseURL = 'https://narminzey.netlify.app'
+languageCode = 'en-us'
+title = 'My porfolio website'
+
+theme = "newsroom"
+author = "Narmin Zey"
+canonifyurls = true
+
+[pagination]
+disableAliases = false
+pagerSize = 10
+path = 'page'
+
+[permalinks]
+pages = ':filename/'
+
+
+# If you want to use disqus, uncomment the line below
+# disqusShortname = "yourdiscussshortname"
