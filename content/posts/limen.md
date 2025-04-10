@@ -1,12 +1,13 @@
-+++
-author = "Michael Henderson"
-date = "2014-09-28"
-title = "Creating a New Theme"
-image = "/images/Limen/cover.jpg"
-+++
+---
+author: "Michael Henderson"
+date: "2014-09-28"
+title: "Performing Spaces"
+
+weight: 1
+slideshow: ["/images/Limen/cover.jpg"]
+---
 
 ## LIMEN ZINE
-Lorem Ipsum
 
-![photo](/images/Limen/cover.jpg)
+Lorem Ipsumasdasdasdasasdasds
 

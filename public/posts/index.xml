@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My porfolio website</title>
+    <title>Posts on Narmin Zey</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My porfolio website</description>
+    <description>Recent content in Posts on Narmin Zey</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <managingEditor>narmzey@gmail.com (Narmin Zey)</managingEditor>
+    <webMaster>narmzey@gmail.com (Narmin Zey)</webMaster>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a New Theme</title>
+      <title>Performing Spaces</title>
       <link>http://localhost:1313/posts/limen/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><author>narmzey@gmail.com (Narmin Zey)</author>
       <guid>http://localhost:1313/posts/limen/</guid>
-      <description>&lt;h2 id=&#34;limen-zine&#34;&gt;LIMEN ZINE&lt;/h2&gt;&#xA;&lt;p&gt;Lorem Ipsum&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Limen/cover.jpg&#34; alt=&#34;photo&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;limen-zine&#34;&gt;LIMEN ZINE&lt;/h2&gt;&#xA;&lt;p&gt;Lorem Ipsumasdasdasdasasdasds&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
