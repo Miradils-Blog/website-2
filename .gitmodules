@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ee47dd96fdbf635b1053315582d7a90a11a6083db2387c2ebf47175f0d831751
-size 110
+[submodule "themes/hugo-swiper"]
+	path = themes/hugo-swiper
+	url = git@github.com:mmzeynalli/hugo-swiper.git
