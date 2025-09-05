@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on NarmZeys Art Portfolio</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on NarmZeys Art Portfolio</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <managingEditor>narmzey@gmail.com (Narmin Zeynalli)</managingEditor>
-    <webMaster>narmzey@gmail.com (Narmin Zeynalli)</webMaster>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc08fdc4b5d0fb8245b4d481269bd6c994e42e7fc2fe94af71d92e8b7001c929
+size 637

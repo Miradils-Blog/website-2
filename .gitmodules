@@ -1,3 +1,3 @@
-[submodule "themes/hugo-swiper"]
-	path = themes/hugo-swiper
-	url = git@github.com:mmzeynalli/hugo-swiper.git
+version https://git-lfs.github.com/spec/v1
+oid sha256:a72da9b348e37489743ca5c8148179f8c54ae76202dcc6a78ba2a19d4313fee4
+size 109
