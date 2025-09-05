@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dbf174e5e041b38126c3c998e15661aa32df436cfae047056fbc9241e230ed44
-size 329
+---
+title: "Moving images"
+slideshow:
+    - "/content/animations/moving-images/im-not-really-here.mp4"
+    - "/content/animations/moving-images/sections.mp4"
+    - "/content/animations/moving-images/sequence-03.mp4"
+    - "/content/animations/moving-images/success.mp4"
+    - "/content/animations/moving-images/who-am-i.mp4"
+---

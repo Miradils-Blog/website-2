@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6c387ee2cd2b0986943cc64d17406a8502c30caa2dfdb1cede74dfc0b18fb36
-size 544
+---
+title: "Limen"
+slideshow:
+ - /content/photography/limen/7d.jpg
+ - /content/photography/limen/DSCF3359.jpg
+ - /content/photography/limen/DSCF3764.jpg
+ - /content/photography/limen/DSCF7588.jpg
+ - /content/photography/limen/DSCF9111u.jpg
+ - /content/photography/limen/IMG_25094.jpg
+ - /content/photography/limen/IMG_9888.jpg
+ - /content/photography/limen/IMG_9905.jpg
+ - /content/photography/limen/Narmin_Zey_LIMEN_01.jpg
+ - /content/photography/limen/Narmin_Zey_LIMEN_02.jpg.jpg
+ - /content/photography/limen/Narmin_Zey_LIMEN_03.jpg.jpg
+---

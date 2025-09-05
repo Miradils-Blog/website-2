@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:09957ec31e3b26b4ceca1997971cbbc93d7dfd96b220225725078ab157008660
-size 156
+---
+title: "Elusive"
+slideshow:
+    - "/content/shorts/elusive/elusive-short-movie.mp4"
+---
+
+Director - Darina Vaisova
+Cinematographer, Editor - Narmin Zey

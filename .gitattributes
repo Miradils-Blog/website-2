@@ -1,8 +1,8 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.MP4 filter=lfs diff=lfs merge=lfs -text
-*.JPG filter=lfs diff=lfs merge=lfs -text
-*.JPEG filter=lfs diff=lfs merge=lfs -text
-*.PNG filter=lfs diff=lfs merge=lfs -text
+static/content/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+static/content/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+static/content/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+static/content/**/*.png filter=lfs diff=lfs merge=lfs -text
+static/content/**/*.MP4 filter=lfs diff=lfs merge=lfs -text
+static/content/**/*.JPG filter=lfs diff=lfs merge=lfs -text
+static/content/**/*.JPEG filter=lfs diff=lfs merge=lfs -text
+static/content/**/*.PNG filter=lfs diff=lfs merge=lfs -text

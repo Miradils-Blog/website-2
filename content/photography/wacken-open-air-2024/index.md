@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c42ca3781a30633979a5a20d2f794bc76cc1552943923cf5cfd74cd2b1509ba
-size 1171
+---
+title: "Wacken Open Air 2024"
+slideshow:
+    - "/content/photography/wacken-open-air-2024/1.png"
+    - "/content/photography/wacken-open-air-2024/2.jpg"
+    - "/content/photography/wacken-open-air-2024/3.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF01900.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF02022.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF04000.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF04066.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF05777.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF06477.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF1629.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF1901.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF2036.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF2301.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF2337.png"
+    - "/content/photography/wacken-open-air-2024/DSCF2424.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF81400.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF94755.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF94966.jpg"
+---

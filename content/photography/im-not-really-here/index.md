@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf29e64b3a34af36278bb956129730d3d95a75a5be6a59965ffcd8244c4c2df1
-size 1072
+---
+title: "Im not really here"
+slideshow:
+ - "/content/photography/im-not-really-here/1.jpg"
+ - "/content/photography/im-not-really-here/2.jpg"
+ - "/content/photography/im-not-really-here/3.jpg"
+ - "/content/photography/im-not-really-here/4.jpg"
+ - "/content/photography/im-not-really-here/5.jpg"
+ - "/content/photography/im-not-really-here/6.jpg"
+ - "/content/photography/im-not-really-here/8.jpg"
+ - "/content/photography/im-not-really-here/9.jpg"
+ - "/content/photography/im-not-really-here/10.jpg"
+ - "/content/photography/im-not-really-here/11.jpg"
+ - "/content/photography/im-not-really-here/12.jpg"
+ - "/content/photography/im-not-really-here/13.jpg"
+ - "/content/photography/im-not-really-here/17.jpg"
+ - "/content/photography/im-not-really-here/DSCF1181.jpg"
+ - "/content/photography/im-not-really-here/DSCF4239.jpg"
+ - "/content/photography/im-not-really-here/DSCF4331.jpg"
+ - "/content/photography/im-not-really-here/DSCF9605.jpg"
+ - "/content/photography/im-not-really-here/DSCF103813.jpg"
+ - "/content/photography/im-not-really-here/Untitled-1zxzxz.jpg"
+---
