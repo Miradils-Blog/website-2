@@ -2,17 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/limen/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/photography/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2019-08-25T00:52:59+03:00</lastmod>
+    <loc>//localhost:1313/animations/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/shorts/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/shorts/elusive/</loc>
+  </url><url>
+    <loc>//localhost:1313/animations/game-of-throwns/</loc>
+  </url><url>
+    <loc>//localhost:1313/shorts/im-being-watched/</loc>
+  </url><url>
+    <loc>//localhost:1313/photography/im-not-really-here/</loc>
+  </url><url>
+    <loc>//localhost:1313/photography/limen/</loc>
+  </url><url>
+    <loc>//localhost:1313/animations/moving-images/</loc>
+  </url><url>
+    <loc>//localhost:1313/shorts/performing-spaces/</loc>
+  </url><url>
+    <loc>//localhost:1313/shorts/ray-of-sunshine-shafag/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/photography/wacken-open-air-2024/</loc>
   </url>
 </urlset>

@@ -1,4 +1,2 @@
-github.com/mmzeynalli/hugo-swiper v0.0.0-20250409124219-de72eb93cb26 h1:7hzQjW2mW0xL+0RZSpTu4rF063oHvH0cK9D3F7Ur6aw=
-github.com/mmzeynalli/hugo-swiper v0.0.0-20250409124219-de72eb93cb26/go.mod h1:MZQ1rwZupTLb/ZcjEEffdaTk1k15yZtDIeBrYX+k6E8=
-github.com/onweru/newsroom v0.0.0-20250123185016-29bfff494220 h1:NfxAPyhY+28t03yv6KvD71hXmoSxfzXXCmi32TBKxgE=
-github.com/onweru/newsroom v0.0.0-20250123185016-29bfff494220/go.mod h1:CnPS3gSJseLHZMhLLbxe+qDzR54HQ7s5RaLujOkejuM=
+github.com/hugo-toha/toha/v4 v4.6.0 h1:u+9KiGyTsC54sHld8HEvLEJBnKjkuuasHwair1wJM2Y=
+github.com/hugo-toha/toha/v4 v4.6.0/go.mod h1:TU/6WXz7fJ3BSrTS+K/sVctzUMF4pB4ZwKWzFBFra8g=

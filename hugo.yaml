@@ -1,0 +1,42 @@
+# baseURL: "https://narmzey.art/"
+baseURL: "localhost:1313/"
+
+# themes directory
+themes: "hugo-swiper"
+themesDir: "themes"
+
+# website title
+title: 'NarmZeys Art Portfolio'
+languageCode: 'en-US'
+
+# Menu config
+menus:
+  main:
+    - name: "About"
+      weight: 1
+      identifier: "about"
+      pageRef: "/"
+    - name: "Photography"
+      weight: 2
+      identifier: "photography"
+      pageRef: "/photography/"
+    - name: "Animations"
+      weight: 3
+      identifier: "animations"
+      pageRef: "/animations/"
+    - name: "Shorts"
+      weight: 4
+      identifier: "shorts"
+      pageRef: "/shorts/"
+
+params:
+  author:
+    name: Narmin Zeynalli
+    email: narmzey@gmail.com
+  profile:
+    avatarURL: "author/avatar.jpg"
+    about: "Narmin Zey is an interdisciplinary artist and visual storyteller from Azerbaijan, currently based in Weimar, Germany. She is pursuing her Master’s in Media Architecture at Bauhaus University, where her work explores the intersections of space, narrative, and visual expression."
+    social:
+      Linkedin: "narminzey"
+      Instagram: "narminzey"
+

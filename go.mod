@@ -1,5 +1,5 @@
-module website
+module github.com/Miradils-Blog/website.git
 
-go 1.24.1
+go 1.22
 
-require github.com/mmzeynalli/hugo-swiper v0.0.0-20250409124219-de72eb93cb26 // indirect
+require github.com/mmzeynalli/hugo-swiper.git

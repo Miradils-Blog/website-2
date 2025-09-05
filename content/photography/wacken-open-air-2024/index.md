@@ -1,0 +1,22 @@
+---
+title: "Wacken Open Air 2024"
+slideshow:
+    - "/content/photography/wacken-open-air-2024/1.png"
+    - "/content/photography/wacken-open-air-2024/2.jpg"
+    - "/content/photography/wacken-open-air-2024/3.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF01900.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF02022.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF04000.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF04066.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF05777.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF06477.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF1629.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF1901.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF2036.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF2301.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF2337.png"
+    - "/content/photography/wacken-open-air-2024/DSCF2424.JPG"
+    - "/content/photography/wacken-open-air-2024/DSCF81400.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF94755.jpg"
+    - "/content/photography/wacken-open-air-2024/DSCF94966.jpg"
+---
