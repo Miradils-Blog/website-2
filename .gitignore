@@ -27,4 +27,4 @@ go.work.sum
 
 .aider*
 public/
-static/
+*.mov
