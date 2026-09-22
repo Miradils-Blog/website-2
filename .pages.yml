@@ -1,0 +1,204 @@
+# Pages CMS configuration — https://pagescms.org/docs/configuration/
+# Editors sign in at https://app.pagescms.org with GitHub and get a form-based UI.
+# Every save is a commit on this repository; Netlify redeploys the site automatically.
+
+media:
+  - name: content
+    label: Media library
+    input: static/content
+    output: /content
+    categories: [ image, video ]
+    rename: safe
+  - name: author
+    label: Profile picture
+    input: static/author
+    output: /author
+    categories: [ image ]
+    rename: safe
+
+settings:
+  content:
+    merge: true
+
+content:
+  - name: photography
+    label: Photography
+    description: "Photo series. Each project is a set of pictures shown as a slider."
+    type: collection
+    path: content/photography
+    filename: "{primary}.md"
+    exclude: [ "_index.md" ]
+    format: yaml-frontmatter
+    view:
+      primary: title
+      fields: [ title, weight ]
+      sort: [ weight, title ]
+      default:
+        sort: weight
+        order: asc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: weight
+        label: Order
+        description: "Position in the sidebar and slider (1 = first)."
+        type: number
+        default: 99
+        options:
+          min: 1
+          step: 1
+      - name: slideshow
+        label: Media
+        description: "Photos and videos in the order they are shown. Drag to reorder. Uploads go to the Photography folder."
+        type: file
+        required: true
+        options:
+          multiple: true
+          path: static/content/photography
+          categories: [ image, video ]
+      - name: body
+        label: Description
+        description: "Shown in the info panel of the project. Optional."
+        type: rich-text
+
+  - name: shorts
+    label: Shorts
+    description: "Short films. Usually one video per project."
+    type: collection
+    path: content/shorts
+    filename: "{primary}.md"
+    exclude: [ "_index.md" ]
+    format: yaml-frontmatter
+    view:
+      primary: title
+      fields: [ title, weight ]
+      sort: [ weight, title ]
+      default:
+        sort: weight
+        order: asc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: weight
+        label: Order
+        description: "Position in the sidebar and slider (1 = first)."
+        type: number
+        default: 99
+        options:
+          min: 1
+          step: 1
+      - name: slideshow
+        label: Media
+        description: "Photos and videos in the order they are shown. Drag to reorder. Uploads go to the Shorts folder."
+        type: file
+        required: true
+        options:
+          multiple: true
+          path: static/content/shorts
+          categories: [ image, video ]
+      - name: body
+        label: Description
+        description: "Shown in the info panel of the project. Optional."
+        type: rich-text
+
+  - name: moving-images
+    label: Moving Images
+    description: "Video works and installations."
+    type: collection
+    path: content/moving-images
+    filename: "{primary}.md"
+    exclude: [ "_index.md" ]
+    format: yaml-frontmatter
+    view:
+      primary: title
+      fields: [ title, weight ]
+      sort: [ weight, title ]
+      default:
+        sort: weight
+        order: asc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: weight
+        label: Order
+        description: "Position in the sidebar and slider (1 = first)."
+        type: number
+        default: 99
+        options:
+          min: 1
+          step: 1
+      - name: slideshow
+        label: Media
+        description: "Photos and videos in the order they are shown. Drag to reorder. Uploads go to the Moving Images folder."
+        type: file
+        required: true
+        options:
+          multiple: true
+          path: static/content/moving-images
+          categories: [ image, video ]
+      - name: body
+        label: Description
+        description: "Shown in the info panel of the project. Optional."
+        type: rich-text
+
+  - name: about
+    label: About page
+    description: "Name, picture, bio and social links shown on the home page."
+    type: file
+    path: hugo.yaml
+    format: yaml
+    fields:
+      - name: title
+        label: Website title
+        description: "Shown in the browser tab."
+        type: string
+      - name: params
+        label: false
+        type: object
+        fields:
+          - name: description
+            label: Short description
+            description: "Used by search engines and link previews."
+            type: string
+          - name: author
+            label: Author
+            type: object
+            fields:
+              - name: name
+                label: Name
+                type: string
+                required: true
+              - name: email
+                label: Email
+                type: string
+          - name: profile
+            label: Profile
+            type: object
+            fields:
+              - name: avatarUrl
+                label: Picture
+                type: image
+                options:
+                  media: author
+              - name: about
+                label: Bio
+                type: text
+              - name: social
+                label: Social links
+                description: "Enter only the username / handle, not the full link. Leave empty to hide."
+                type: object
+                fields:
+                  - { name: instagram, label: Instagram, type: string }
+                  - { name: linkedin, label: LinkedIn, type: string }
+                  - { name: youtube, label: YouTube, type: string }
+                  - { name: vimeo, label: Vimeo, type: string }
+                  - { name: behance, label: Behance, type: string }
+                  - { name: x, label: X (Twitter), type: string }
+                  - { name: email, label: Email, type: string }
+                  - { name: website, label: Website, type: string }
