@@ -1,41 +1,35 @@
 baseURL: "https://narmzey.art/"
+title: "NarmZeys Art Portfolio"
+languageCode: "en-US"
 
-# themes directory
-themes: "hugo-swiper"
+theme: "hugo-swipefolio"
 themesDir: "themes"
 
-# website title
-title: 'NarmZeys Art Portfolio'
-languageCode: 'en-US'
-
-# Menu config
+# Sidebar menu. Entries that point at a section list that section's pages
+# underneath; the order of pages inside a section follows their `weight`.
 menus:
   main:
     - name: "About"
       weight: 1
-      identifier: "about"
       pageRef: "/"
     - name: "Photography"
       weight: 2
-      identifier: "photography"
       pageRef: "/photography/"
     - name: "Shorts"
       weight: 3
-      identifier: "shorts"
       pageRef: "/shorts/"
     - name: "Moving Images"
       weight: 4
-      identifier: "moving-images"
       pageRef: "/moving-images/"
 
 params:
+  description: "Narmin Zey — interdisciplinary artist and visual storyteller. Photography, shorts and moving images."
   author:
     name: Narmin Zey
     email: narmzey@gmail.com
   profile:
-    avatarURL: "author/avatar.jpg"
+    avatarUrl: "/author/avatar.jpg"
     about: "Narmin Zey is an interdisciplinary artist and visual storyteller from Azerbaijan, currently based in Weimar, Germany. She is pursuing her Masters in Media Architecture at Bauhaus University, where her work explores the intersections of space, narrative, and visual expression."
     social:
-      Linkedin: "narminzey"
-      Instagram: "narminzey"
-
+      linkedin: "narminzey"
+      instagram: "narminzey"
